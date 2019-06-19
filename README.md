@@ -1,4 +1,4 @@
-# Unemployment Status and Health-Outcomes
+# Unemployment Status and Health Outcomes
 
 ## Project Focus & Questions with Major Findings:
 
