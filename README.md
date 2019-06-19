@@ -19,17 +19,18 @@ Data source: http://www.countyhealthrankings.org
 
 ## Major Findings:
 
+
+
 ### Question 1:
-
-#### ASpirou - There is a moderately strong positive linear correlation between percentage of unemployed individuals and percentage of violent crimes committed per state (r = 0.591). Furthermore, within violent crimes, the percentage of homicide rates is more positively correlated with rates of unemployment (r = 0.596), whereas deaths by other types of injuries and firearm fatalities have weaker relationships with unemployment (r = 0.278, r = 0.380). Visualizations saved as png files of data can be found in folder named "Images_ASpirou"
-
-
-### Question 2:
 
 #### Chounoune - Southern Arizona, California and Montana have the counties with the highest unemployment rates of over 12%. With a correlation coefficient of r =  0.30, there is evidence of a low positive relationship between unemployment rate and respectively premature deaths and low birth weight.
 
 
 #### JWang - Unemployment vs Diabetes and HIV prevalence.  From the plots we can conclude that, an increase in unemployment rate doesn't result in higher Diabetes and HIV rates by looking at the two variables by states. The only two states show strong correlations are Alaska, where it has the highest unemployment and Diabetes rate and DC, where it has the second highest unemployment and HIV rate. The regression results support our conclusion as one gives r =0.13 and the other gives r= 0.38 which indicate both variables have low correlation with unemployment rate.
+
+### Question 2:
+
+#### ASpirou - There is a moderately strong positive linear correlation between percentage of unemployed individuals and percentage of violent crimes committed per state (r = 0.591). Furthermore, within violent crimes, the percentage of homicide rates is more positively correlated with rates of unemployment (r = 0.596), whereas deaths by other types of injuries and firearm fatalities have weaker relationships with unemployment (r = 0.278, r = 0.380). Visualizations saved as png files of data can be found in folder named "Images_ASpirou"
 
 
 ### Question 3:
