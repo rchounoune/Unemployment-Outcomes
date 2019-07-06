@@ -23,7 +23,7 @@ Data source: http://www.countyhealthrankings.org
 
 ### Question 1:
 
-#### Chounoune - Southern Arizona, California and Montana have the counties with the highest unemployment rates of over 12%. With a correlation coefficient of r =  0.30, there is evidence of a low positive relationship between unemployment rate and respectively premature deaths and low birth weight.
+#### RChounoune - Southern Arizona, California and Montana have the counties with the highest unemployment rates of over 12%. With a correlation coefficient of r =  0.30, there is evidence of a low positive relationship between unemployment rate and respectively premature deaths and low birth weight.
 
 
 #### JWang - Unemployment vs Diabetes and HIV prevalence.  From the plots we can conclude that, an increase in unemployment rate doesn't result in higher Diabetes and HIV rates by looking at the two variables by states. The only two states show strong correlations are Alaska, where it has the highest unemployment and Diabetes rate and DC, where it has the second highest unemployment and HIV rate. The regression results support our conclusion as one gives r =0.13 and the other gives r= 0.38 which indicate both variables have low correlation with unemployment rate.
